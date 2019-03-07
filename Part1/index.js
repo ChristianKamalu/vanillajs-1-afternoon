@@ -54,5 +54,5 @@ function play(val) {
     (arr[0] === "O" && arr[4] === "O" && arr[8] === "O") ||
     (arr[2] === "O" && arr[4] === "O" && arr[6] === "O")) {
         alert("Player O wins!!");
-    } else {alert("DRAAAAW!")}
+    }
 }
